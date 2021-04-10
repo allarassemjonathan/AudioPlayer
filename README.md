@@ -9,13 +9,13 @@ and you should be good.
 
 # Last Updates
 Update v.01
-1.Add the pause button
-2.Add the skip backend
+*-> Add the pause button 
+*-> Add the skip backend
 
 Update v.02
 Add the skip left and skip right button
 
 # Next updates
 
-1.Playing music without stop\n
-2.Playing music in loop
+*Playing music without stop
+*Playing music in loop
