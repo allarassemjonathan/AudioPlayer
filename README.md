@@ -17,5 +17,5 @@ Update v.02
 
 # Next updates
 
--> Playing music without stop
+-> Playing music without stop\n
 -> Playing music in loop
