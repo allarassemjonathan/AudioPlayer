@@ -13,7 +13,7 @@ Update v.01
 * Add the skip backend
 
 Update v.02
-Add the skip left and skip right button
+* Add the skip left and skip right button
 
 # Next updates
 
