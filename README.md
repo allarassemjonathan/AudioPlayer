@@ -19,3 +19,6 @@ Add the skip left and skip right button
 
 * Playing music without stop
 * Playing music in loop
+* Add a song
+* Add a playlist
+* Add an album
