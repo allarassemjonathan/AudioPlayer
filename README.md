@@ -22,3 +22,4 @@ Update v.02
 * Add a song
 * Add a playlist
 * Add an album
+* Increase/Decrease the volume
