@@ -27,3 +27,4 @@ Update v.03
 * Add an album
 * Increase/Decrease the volume
 * First song bug 
+* Cannot play when the song is over
