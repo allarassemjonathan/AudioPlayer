@@ -26,3 +26,4 @@ Update v.03
 * Add a playlist
 * Add an album
 * Increase/Decrease the volume
+* First song bug 
