@@ -15,7 +15,7 @@ Update v.01
 Update v.02
 * Add the skip left and skip right button
 
-Update v.02
+Update v.03
 * Solve the skipping bug (error out of bounds)
 
 # Next updates
