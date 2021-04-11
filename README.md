@@ -23,3 +23,4 @@ Update v.02
 * Add a playlist
 * Add an album
 * Increase/Decrease the volume
+* Skipping problem
