@@ -15,6 +15,9 @@ Update v.01
 Update v.02
 * Add the skip left and skip right button
 
+Update v.02
+* Solve the skipping bug (error out of bounds)
+
 # Next updates
 
 * Playing music without stop
@@ -23,4 +26,3 @@ Update v.02
 * Add a playlist
 * Add an album
 * Increase/Decrease the volume
-* Skipping problem (prohibit out of bounds skipping)
